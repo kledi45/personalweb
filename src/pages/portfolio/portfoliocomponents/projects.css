@@ -1,0 +1,62 @@
+
+.mesi {
+    max-width: 800px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 50px;
+    color: #795649;
+}
+.project-cards {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.project-cards-1 {
+    height: 250px;
+    width: 300px;
+    border: 1px solid #795649;
+    text-align: center;
+    color: #795649;
+    border-radius: 15px;
+    font-size: 18px;
+    
+}
+
+.project-cards-1 p{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+.prezzies {
+    padding-top: 10px;
+    height: 20%;
+}
+
+.visit-btn {
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: #795649;
+    border: 1px solid #795649;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.visit-btn:hover {
+    cursor: pointer;
+    font-size: 19px;
+    transition: 0.5s ease-out;
+}
+
+.center {
+    text-align: center;
+    color: #795649;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+}

@@ -1,0 +1,48 @@
+.footer {
+    background-color: #314455;
+    color: white;
+    margin-top: 0px;
+    padding: 0px;
+    text-align: center;
+    height: 100%;
+    margin-top: 50px;
+}
+
+.contacth1 {
+    text-align: center;
+    margin: 0px;
+    padding-top: 50px;
+}
+
+.footer-icons {
+    justify-content: center;
+    text-align: center;
+}
+
+.social-icon-footer {
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+
+.footer hr {
+    margin-top: 0px;
+    width: 20%;
+    border: 1px solid #795649;
+}
+
+.footer p {
+    margin: 0px;
+}
+
+.hr {
+    width: 30%;
+    margin-top: 50px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: -50px;
+    color:#795649 ;
+    margin-top: 50px;
+}

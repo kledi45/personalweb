@@ -1,0 +1,74 @@
+.container {
+    width: 100%;
+}
+
+.baba-picture {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+
+.biography {
+    color: #795649;
+    margin-top: 0px;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+
+.biography-content {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.biography-paragraph {
+    max-width: 500px;
+    margin-right: 300px;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.biography-paragraph h1 {
+    font-weight: 400;
+}
+
+.photo-text h4 {
+    font-weight: 400;
+}
+
+.photo-text {
+    text-align: center;
+}
+
+.interests-education {
+    padding-top: 10px;
+    display: flex;
+}
+
+.interests {
+    padding-right: 150px;
+}
+
+.icons-bio {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons-bio a {
+    text-decoration: none;
+}
+
+.interests-education h1 {
+    margin-left: -20px;
+}
+
+
+.interests-education ul {
+    margin-left: -20px;
+}
+
+.icon:hover {
+    transition: 0.2s ease-in;
+    height: 32px;
+}
